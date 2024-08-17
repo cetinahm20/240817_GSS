@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/kirmizi.png</file>
+        <file>img/TayfLogo.png</file>
+        <file>img/yesil.png</file>
+        <file>img/location-pin.png</file>
+        <file>img/durdur.png</file>
+        <file>img/filtrele.png</file>
+        <file>img/buzzer.mp3</file>
+        <file>img/baslat.png</file>
+        <file>img/ayril.png</file>
+        <file>img/sadeara.png</file>
+        <file>img/durus.png</file>
+        <file>img/ayrilma.png</file>
+        <file>img/ucusa_hazir.png</file>
+        <file>img/yukselme.png</file>
+        <file>img/gorev_yuku_inis.png</file>
+        <file>img/kurtarma.png</file>
+        <file>img/model_uydu_inis.png</file>
+        <file>img/mesh.jpg</file>
+        <file>img/mesh2.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>map.qml</file>
+        <file>durus.qml</file>
+    </qresource>
+</RCC>
